@@ -19,7 +19,7 @@ body {
   width: 300px;
   margin: 25px;
   border-radius: 10px;
-  background-image: url("../images/image-equilibrium.jpg");
+  background-image: url(./../images/image-equilibrium.jpg);
   background-position: center;
   background-size: cover;
 }
